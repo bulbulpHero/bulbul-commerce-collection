@@ -1,0 +1,32 @@
+.black-button{
+    background-color: black;
+    color:white;
+    border:none;
+    border-radius: 8px;
+}
+.card{
+    border:none;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    text-align: center;
+   border-top: none;
+    background-color: white;
+}
+.button-price{
+    text-align: center;
+}
+.container-phone{
+    margin-bottom: 100px;
+}
+.middle{
+    text-align: center;
+    padding:50px;
+}
+.container-categories{
+    margin-bottom: 100px;
+}
+.nav{
+    text:end;
+}
